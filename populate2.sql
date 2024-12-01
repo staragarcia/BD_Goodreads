@@ -98,7 +98,7 @@ VALUES ('J.B. Lippincott & Co.', '1901-03-024');
 -- POPULATE DA COLECAO
 INSERT INTO COLECAO (NOME) VALUES ('O Senhor dos Anéis');
 INSERT INTO COLECAO (NOME) VALUES ('As Crónicas de Gelo e Fogo');
-INSERT INTO COLECAO (NOME) VALUES ('Coleção Mistério');
+INSERT INTO COLECAO (NOME) VALUES ('Robert Langdon Series');
 INSERT INTO COLECAO (NOME) VALUES ('Harry Potter Series');
 INSERT INTO COLECAO (NOME) VALUES ('Millennium Series');
 INSERT INTO COLECAO (NOME) VALUES ('The Dystopian Series');
