@@ -288,17 +288,17 @@ VALUES (9781122334455, 3, '2024-11-15', '2024-11-22', '★★★★★', 'Excele
 INSERT INTO LEITURA (ISBN, ID, DATA_DE_INICIO, DATA_DE_CONCLUSAO, CLASSIFICACAO, REVIEW) 
 VALUES (9780061120084, 1, '2024-11-01', '2024-11-10', '★★★★★', 'Uma obra-prima, cheia de emoção e profundidade.'); 
 INSERT INTO LEITURA (ISBN, ID, DATA_DE_INICIO, DATA_DE_CONCLUSAO, CLASSIFICACAO, REVIEW) 
-VALUES (9780747532699, 7, '2024-10-15', '2024-11-05', '★★★★☆', 'Uma história envolvente com muita magia, mas alguns pontos previsíveis.'); 
+VALUES (9780307474278, 7, '2024-10-15', '2024-11-05', '★★★★☆', 'Uma história envolvente com muita magia, mas alguns pontos previsíveis.'); 
 INSERT INTO LEITURA (ISBN, ID, DATA_DE_INICIO, DATA_DE_CONCLUSAO, CLASSIFICACAO, REVIEW) 
-VALUES (9780307454546, 8, '2024-11-10', '2024-11-20', '★★★☆☆', 'Trama interessante, mas os personagens poderiam ser mais profundos.'); 
+VALUES (9780061120084, 8, '2024-11-10', '2024-11-20', '★★★☆☆', 'Trama interessante, mas os personagens poderiam ser mais profundos.'); 
 INSERT INTO LEITURA (ISBN, ID, DATA_DE_INICIO, DATA_DE_CONCLUSAO, CLASSIFICACAO, REVIEW) 
 VALUES (9780451524935, 9, '2024-09-25', '2024-10-05', '★★★★★', 'Uma crítica profunda à sociedade, um dos melhores livros distópicos.');
 INSERT INTO LEITURA (ISBN, ID, DATA_DE_INICIO, DATA_DE_CONCLUSAO, CLASSIFICACAO, REVIEW) 
 VALUES (9780451524935, 11, '2024-09-25', '2024-10-05', '★★★★★', 'Nada a dizer');
 INSERT INTO LEITURA (ISBN, ID, DATA_DE_INICIO, DATA_DE_CONCLUSAO, CLASSIFICACAO, REVIEW) 
-VALUES (9780747532699, 1, '2023-10-15', '2024-11-05', '★★★★☆', 'Mesmo bommm'); 
+VALUES (9780307474278, 1, '2023-10-15', '2024-11-05', '★★★★☆', 'Mesmo bommm'); 
 INSERT INTO LEITURA (ISBN, ID, DATA_DE_INICIO, DATA_DE_CONCLUSAO, CLASSIFICACAO, REVIEW) 
-VALUES (9780307454546, 2, '2024-09-10', '2024-11-20', '★★★☆☆', 'Meh'); 
+VALUES (9780061120084, 2, '2024-09-10', '2024-11-20', '★★★☆☆', 'Meh'); 
 
 
 
